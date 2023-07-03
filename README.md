@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou o Bruno Silva, desenvolvedor Front-End... ✌️
 
-[![Site](https://img.shields.io/website?label=BrunoSilvaDevelTech.com&style=for-the-badge&url=https://brunosilvarodrigues.com.br/)](https://www.brunosilvarodrigues.com.br)
+[![Site](https://img.shields.io/website?label=brunosilvarodrigues.com&style=for-the-badge&url=https://brunosilvarodrigues.com.br/)](https://www.brunosilvarodrigues.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunnosillvar/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunnosillvar/)
 
