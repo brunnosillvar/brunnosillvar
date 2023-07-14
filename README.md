@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o Bruno Silva, desenvolvedor Front-End... ✌️
+### Olá! Eu sou o Bruno Silva, desenvolvedor Full Stack... ✌️
 
 [![Site](https://img.shields.io/website?label=brunosilvarodrigues.com&style=for-the-badge&url=https://brunosilvarodrigues.com.br/)](https://www.brunosilvarodrigues.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunnosillvar/)
